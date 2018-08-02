@@ -27,7 +27,7 @@
     -   when not used, cars are turned off, but some functionality must persist -> battery/energy management is crucial
     
 ## Task 1
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/iCorv/MobilityOnDemand/blob/master/mod_database_schema.png "Logo Title Text 1")
 
 ## Task 2
 ### Requirements
